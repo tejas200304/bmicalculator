@@ -1,0 +1,11 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: "Kanit", sans-serif;
+}
+body{
+  background-image: url('./images/img5.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
